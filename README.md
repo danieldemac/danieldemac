@@ -5,7 +5,8 @@
 Here's some information about me:
 
 - 🎓 I'm a Computer Science student.
-- 💻 I have experience in Java and Python.
+- 🔭 I’m currently working on PHP and Laravel.
+- 💻 I have experience in Java, Python.
 - 🌐 I'm proficient in HTML, CSS, and JavaScript.
 - 🔧 I also have some familiarity with C#.
 - 📚 I have good English language skills.
