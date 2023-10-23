@@ -22,7 +22,7 @@
 <img align="center" width="15" height="15" src="https://img.icons8.com/color/48/illuminati.png" alt="illuminati"/>
 <img align="center" width="15" height="15" src="https://img.icons8.com/doodle/48/capybara.png" alt="capybara"/>
 <img align="center" width="15" height="15" src="https://img.icons8.com/glyph-neue/64/scream.png" alt="scream"/>
-<img align="center" width="15" height="15" src="https://img.icons8.com/android/24/self-destruct-button.png" alt="self-destruct-button"/>
+<img align="center" width="15" height="15" src="https://img.icons8.com/flat-round/64/self-destruct-button--v1.png" alt="self-destruct-button--v1"/>
 
 
   
