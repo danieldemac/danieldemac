@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: dm.arantes.cabral@gmail.com
 
-<p style="background-color: black; color: yellow;">Here's some information about me:</p>
+<p style="color: yellow;">Here's some information about me:</p>
 <ul>
   <li>🎓 I'm a Computer Science student.</li>
   <li>🔭 I’m currently working on PHP and Laravel.</li>
