@@ -1,8 +1,7 @@
 ### Hi there! 👋
-
-- 📫 How to reach me: dm.arantes.cabral@gmail.com
-
-<p style="color: yellow;">Here's some information about me:</p>
+<p>- 📫 How to reach me: dm.arantes.cabral@gmail.com</p>
+<br>
+<p>Here's some information about me:</p>
 <ul>
   <li>🎓 I'm a Computer Science student.</li>
   <li>🔭 I’m currently working on PHP and Laravel.</li>
@@ -34,8 +33,6 @@
   <img align="center" alt="Dan-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dan-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Dan-Selen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-
- 
 
 </div>
 <h1>  Redes Sociais </h1> 
