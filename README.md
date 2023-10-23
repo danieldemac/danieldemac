@@ -15,8 +15,8 @@
 
 <h2>  Informações </h2> 
 <div style="display: inline_block>
-<p align="center">Feel free to reach out!</p>
-<img align="center" alt="Danpkm" height="15" width="15" src="https://img.icons8.com/officexs/16/pokeball.png" alt="pokeball"/>
+<p> Feel free to reach out!</p>
+<img alt="Danpkm" height="15" width="15" src="https://img.icons8.com/officexs/16/pokeball.png" alt="pokeball"/>
 </div>
 
 <div>
