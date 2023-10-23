@@ -12,7 +12,7 @@
   <li>🚀 I'm passionate about learning and keeping up with the latest advancements in technology.</li>
 </ul>
 <h2>Feel free to reach out!</h2>
-<h2> 🥇 Informações </h2>
+<h2> <img width="16" height="16" src="https://img.icons8.com/tiny-glyph/16/pokeball.png" alt="pokeball"/> Informações </h2>
 <div>
 <p align="center">
 <img height="140px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=danieldemac&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -35,7 +35,7 @@
   <img align="center" alt="Dan-Selen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 
 </div>
-<h1>  Redes Sociais </h1> 
+<h3>  Redes Sociais </h3> 
 
   <a href="https://www.instagram.com/danieldemac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dm.arantes.cabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
