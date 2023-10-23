@@ -1,4 +1,4 @@
-### Hi there! 👋
+<h1> Hi there! 👋 </h1>
 <p>- 📫 How to reach me: dm.arantes.cabral@gmail.com</p>
 <br>
 <p>Here's some information about me:</p>
@@ -11,7 +11,7 @@
   <li>📚 I have good English language skills.</li>
   <li>🚀 I'm passionate about learning and keeping up with the latest advancements in technology.</li>
 </ul>
-<h1>Feel free to reach out!</h1>
+<h2>Feel free to reach out!</h2>
 <h2> 🥇 Informações </h2>
 <div>
 <p align="center">
