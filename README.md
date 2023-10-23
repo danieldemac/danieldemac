@@ -14,10 +14,8 @@
 
 
 <h2>  Informações </h2> 
-<div style="display: inline_block>
-<p> Feel free to reach out!</p>
+
 <img alt="Danpkm" height="15" width="15" src="https://img.icons8.com/officexs/16/pokeball.png" alt="pokeball"/>
-</div>
 
 <div>
 <img height="140px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=danieldemac&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
