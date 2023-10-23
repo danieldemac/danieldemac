@@ -12,7 +12,7 @@
   <li>🚀 I'm passionate about learning and keeping up with the latest advancements in technology.</li>
 </ul>
 <h2>Feel free to reach out!</h2>
-<h2>  Informações </h2> <img width="16" height="16" src="https://img.icons8.com/tiny-glyph/16/pokeball.png" alt="pokeball"/>
+<h2>  Informações </h2> <img width="16" height="16" src="https://img.icons8.com/officexs/16/pokeball.png" alt="pokeball"/>
 <div>
 <p align="center">
 <img height="140px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=danieldemac&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
