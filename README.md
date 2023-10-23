@@ -3,15 +3,15 @@
 - 📫 How to reach me: dm.arantes.cabral@gmail.com
 
 Here's some information about me:
-
-- 🎓 I'm a Computer Science student.
-- 🔭 I’m currently working on PHP and Laravel.
-- 💻 I have experience in Java, Python.
-- 🌐 I'm proficient in HTML, CSS, and JavaScript.
-- 🔧 I also have some familiarity with C#.
-- 📚 I have good English language skills.
-- 🚀 I'm passionate about learning and keeping up with the latest advancements in technology.
-
+<ol>
+  <li>🎓 I'm a Computer Science student.</li>
+  <li>🔭 I’m currently working on PHP and Laravel.</li>
+  <li>💻 I have experience in Java, Python.</li>
+  <li>🌐 I'm proficient in HTML, CSS, and JavaScript.</li>
+  <li>🔧 I also have some familiarity with C#.</li>
+  <li>📚 I have good English language skills.</li>
+  <li>🚀 I'm passionate about learning and keeping up with the latest advancements in technology.</li>
+</ol>
 Feel free to reach out!
 <h2> 🥇 Informações </h2>
 <div>
