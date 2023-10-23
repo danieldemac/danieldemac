@@ -13,7 +13,7 @@ Here's some information about me:
 - 🚀 I'm passionate about learning and keeping up with the latest advancements in technology.
 
 Feel free to reach out!
-
+<img height="140px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=danieldemac&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <!--
 **danieldemac/danieldemac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
