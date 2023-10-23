@@ -12,6 +12,7 @@
   <li>🚀 I'm passionate about learning and keeping up with the latest advancements in technology.</li>
 </ul>
 
+<img width="16" height="16" src="https://img.icons8.com/officexs/16/pokeball.png" alt="pokeball"/>
 <h2>  Informações </h2> 
 <p>Feel free to reach out!</p>
 <div>
