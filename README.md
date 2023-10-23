@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: dm.arantes.cabral@gmail.com
 
-Here's some information about me:
+<p style="background-color: black; color: yellow;">Here's some information about me:</p>
 <ul>
   <li>🎓 I'm a Computer Science student.</li>
   <li>🔭 I’m currently working on PHP and Laravel.</li>
@@ -12,7 +12,7 @@ Here's some information about me:
   <li>📚 I have good English language skills.</li>
   <li>🚀 I'm passionate about learning and keeping up with the latest advancements in technology.</li>
 </ul>
-Feel free to reach out!
+<h1>Feel free to reach out!</h1>
 <h2> 🥇 Informações </h2>
 <div>
 <p align="center">
