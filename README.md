@@ -17,6 +17,14 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Danpkm" height="15" width="15" src="https://img.icons8.com/officexs/16/pokeball.png" alt="pokeball"/>
 <img align="center" width="15" height="15" src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/64/external-rpg-video-game-tulpahn-outline-color-tulpahn.png" alt="external-rpg-video-game-tulpahn-outline-color-tulpahn"/>
+<img align="center" width="15" height="15" src="https://img.icons8.com/office/16/astronaut.png" alt="astronaut"/>
+<img align="center" width="15" height="15" src="https://img.icons8.com/stickers/100/grey.png" alt="grey"/>
+<img align="center" width="15" height="15" src="https://img.icons8.com/color/48/illuminati.png" alt="illuminati"/>
+<img align="center" width="15" height="15" src="https://img.icons8.com/doodle/48/capybara.png" alt="capybara"/>
+<img align="center" width="15" height="15" src="https://img.icons8.com/glyph-neue/64/scream.png" alt="scream"/>
+<img align="center" width="15" height="15" src="https://img.icons8.com/android/24/self-destruct-button.png" alt="self-destruct-button"/>
+
+
   
 </div>
 <div>
