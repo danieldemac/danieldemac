@@ -1,10 +1,5 @@
 <h1> Hi there! 👋 </h1>
-<script src="https://cdn.lordicon.com/lordicon-1.1.0.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/tltikfri.json"
-    trigger="hover"
-    style="width:250px;height:250px">
-</lord-icon>
+
 <p>- 📫 How to reach me: dm.arantes.cabral@gmail.com</p>
 <br>
 <p>Here's some information about me:</p>
