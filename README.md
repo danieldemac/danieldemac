@@ -1,7 +1,8 @@
-<div style="display: inline_block">
 <h1> Hi there! Bem-vindos!</h1>
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/hand-drag.png" alt="hand-drag"/> 
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/hand-drag.png" alt="hand-drag"/> 
+<div style="display: inline_block">
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/hand-drag.png" alt="hand-drag"/> 
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/programming.png" alt="programming"/>
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/futurama-bender.png" alt="futurama-bender"/>
 </div>
 
 <p>- 📫 How to reach me: dm.arantes.cabral@gmail.com</p>
