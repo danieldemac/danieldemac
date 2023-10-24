@@ -13,7 +13,7 @@
 </ul>
 
 
-<h2>  Informações </h2> 
+<h2> ✨ Informações ✨ </h2> 
 <div style="display: inline_block"><br>
 <img align="center" alt="Danpkm" height="15" width="15" src="https://img.icons8.com/officexs/16/pokeball.png" alt="pokeball"/>
 <img align="center" width="15" height="15" src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/64/external-rpg-video-game-tulpahn-outline-color-tulpahn.png" alt="external-rpg-video-game-tulpahn-outline-color-tulpahn"/>
@@ -22,9 +22,6 @@
 <img align="center" width="15" height="15" src="https://img.icons8.com/color/48/illuminati.png" alt="illuminati"/>
 <img align="center" width="15" height="15" src="https://img.icons8.com/doodle/48/capybara.png" alt="capybara"/>
 <img align="center" width="15" height="15" src="https://img.icons8.com/flat-round/64/self-destruct-button--v1.png" alt="self-destruct-button--v1"/>
-
-
-  
 </div>
 <div>
 <img height="140px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=danieldemac&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -32,7 +29,7 @@
 </div>
 <br><br><br><br><br><br><br>
 <div >
-  <h2> 💻 Linguagens </h2>
+  <h2> 💻 Linguagens ⚡ </h2>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
