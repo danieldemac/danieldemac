@@ -23,6 +23,7 @@
 <div>
 <img height="180px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=danieldemac&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=danieldemac&layout=compact&langs_count=16&theme=react" />
+</div>
 <div style="display: inline_block"><br>
 <a href="https://www.youtube.com/watch?v=-PlAg8R9TG4"><img align="center" alt="Danpkm" height="15" width="15" src="https://img.icons8.com/officexs/16/pokeball.png" alt="pokeball"/></a>
 <a  href="https://www.youtube.com/watch?v=MXDF0wVcWfA"><img align="center" width="15" height="15" src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/64/external-rpg-video-game-tulpahn-outline-color-tulpahn.png" alt="external-rpg-video-game-tulpahn-outline-color-tulpahn"/></a>
