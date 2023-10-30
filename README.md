@@ -20,6 +20,9 @@
 
 
 <h2> ✨ Informações ✨ </h2> 
+<div>
+<img height="180px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=danieldemac&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="180px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=danieldemac&layout=compact&langs_count=16&theme=react" />
 <div style="display: inline_block"><br>
 <a href="https://www.youtube.com/watch?v=-PlAg8R9TG4"><img align="center" alt="Danpkm" height="15" width="15" src="https://img.icons8.com/officexs/16/pokeball.png" alt="pokeball"/></a>
 <a  href="https://www.youtube.com/watch?v=MXDF0wVcWfA"><img align="center" width="15" height="15" src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/64/external-rpg-video-game-tulpahn-outline-color-tulpahn.png" alt="external-rpg-video-game-tulpahn-outline-color-tulpahn"/></a>
@@ -29,14 +32,6 @@
 <a  href="https://www.youtube.com/watch?v=8Pj-YEQbojk"><img align="center" width="15" height="15" src="https://img.icons8.com/doodle/48/capybara.png" alt="capybara"/></a>
 <a  href="https://hackertyper.net/"><img align="center" width="15" height="15" src="https://img.icons8.com/flat-round/64/self-destruct-button--v1.png" alt="self-destruct-button--v1"/></a>
 </div>
-<div>
-<img height="180px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=danieldemac&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img height="180px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=danieldemac&layout=compact&langs_count=16&theme=react" />
-</div>
-<br>
-<br>
-<br><br><br><br><br>
-<div >
   <h2> 💻 Linguagens ⚡ </h2>
 </div>
 <div style="display: inline_block"><br>
@@ -50,7 +45,9 @@
   <img align="center" alt="Dan-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dan-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Dan-Selen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-
+<div>
+  
+</div>
 </div>
 <h3>  Redes Sociais </h3> 
 
