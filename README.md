@@ -4,7 +4,7 @@
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/programming.png" alt="programming"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/futurama-bender.png" alt="futurama-bender"/>
 </div>
-
+![GitHub language count](https://img.shields.io/github/languages/count/BEPb/README)
 <p>- 📫 How to reach me: dm.arantes.cabral@gmail.com</p>
 <br>
 <p>Here's some information about me:</p>
