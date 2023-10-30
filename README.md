@@ -24,17 +24,8 @@
 <img height="180px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=danieldemac&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=danieldemac&layout=compact&langs_count=16&theme=react" />
 </div>
-<div style="display: inline_block"><br>
-<a href="https://www.youtube.com/watch?v=-PlAg8R9TG4"><img align="center" alt="Danpkm" height="15" width="15" src="https://img.icons8.com/officexs/16/pokeball.png" alt="pokeball"/></a>
-<a  href="https://www.youtube.com/watch?v=MXDF0wVcWfA"><img align="center" width="15" height="15" src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/64/external-rpg-video-game-tulpahn-outline-color-tulpahn.png" alt="external-rpg-video-game-tulpahn-outline-color-tulpahn"/></a>
-<a  href="https://www.youtube.com/watch?v=IwCHKyD7awA"><img align="center" width="15" height="15" src="https://img.icons8.com/office/16/astronaut.png" alt="astronaut"/></a>
-<a  href="https://www.youtube.com/watch?v=SQ4-7qf_vxo"><img align="center" width="15" height="15" src="https://img.icons8.com/stickers/100/grey.png" alt="grey"/></a>
-<a  href="segredo.segredo"><img align="center" width="15" height="15" src="https://img.icons8.com/color/48/illuminati.png" alt="illuminati"/></a>
-<a  href="https://www.youtube.com/watch?v=8Pj-YEQbojk"><img align="center" width="15" height="15" src="https://img.icons8.com/doodle/48/capybara.png" alt="capybara"/></a>
-<a  href="https://hackertyper.net/"><img align="center" width="15" height="15" src="https://img.icons8.com/flat-round/64/self-destruct-button--v1.png" alt="self-destruct-button--v1"/></a>
-</div>
-  <h2> 💻 Linguagens ⚡ </h2>
-</div>
+<h2> 💻 Linguagens ⚡ </h2>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -51,10 +42,19 @@
 </div>
 </div>
 <h3>  Redes Sociais </h3> 
-
-  <a href="https://www.instagram.com/danieldemac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<div><a href="https://www.instagram.com/danieldemac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dm.arantes.cabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-de-melo-arantes-cabral-63664659//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<div style="display: inline_block"><br>
+<a href="https://www.youtube.com/watch?v=-PlAg8R9TG4"><img align="center" alt="Danpkm" height="15" width="15" src="https://img.icons8.com/officexs/16/pokeball.png" alt="pokeball"/></a>
+<a  href="https://www.youtube.com/watch?v=MXDF0wVcWfA"><img align="center" width="15" height="15" src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/64/external-rpg-video-game-tulpahn-outline-color-tulpahn.png" alt="external-rpg-video-game-tulpahn-outline-color-tulpahn"/></a>
+<a  href="https://www.youtube.com/watch?v=IwCHKyD7awA"><img align="center" width="15" height="15" src="https://img.icons8.com/office/16/astronaut.png" alt="astronaut"/></a>
+<a  href="https://www.youtube.com/watch?v=SQ4-7qf_vxo"><img align="center" width="15" height="15" src="https://img.icons8.com/stickers/100/grey.png" alt="grey"/></a>
+<a  href="segredo.segredo"><img align="center" width="15" height="15" src="https://img.icons8.com/color/48/illuminati.png" alt="illuminati"/></a>
+<a  href="https://www.youtube.com/watch?v=8Pj-YEQbojk"><img align="center" width="15" height="15" src="https://img.icons8.com/doodle/48/capybara.png" alt="capybara"/></a>
+<a  href="https://hackertyper.net/"><img align="center" width="15" height="15" src="https://img.icons8.com/flat-round/64/self-destruct-button--v1.png" alt="self-destruct-button--v1"/></a>
+</div>  
 <!--
 **danieldemac/danieldemac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
