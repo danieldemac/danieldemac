@@ -60,6 +60,24 @@
   <a href="https://www.youtube.com/watch?v=-PlAg8R9TG4">
     <img src="https://img.icons8.com/officexs/16/pokeball.png" alt="pokeball" width="15" height="15"/>
   </a>
+  <a  href="https://www.youtube.com/watch?v=MXDF0wVcWfA">
+    <img align="center" width="15" height="15" src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/64/external-rpg-video-game-tulpahn-outline-color-tulpahn.png" alt="external-rpg-video-game-tulpahn-outline-color-tulpahn"/>
+  </a>
+  <a  href="https://www.youtube.com/watch?v=IwCHKyD7awA">
+    <img align="center" width="15" height="15" src="https://img.icons8.com/office/16/astronaut.png" alt="astronaut"/>
+  </a>
+  <a  href="https://www.youtube.com/watch?v=SQ4-7qf_vxo">
+    <img align="center" width="15" height="15" src="https://img.icons8.com/stickers/100/grey.png" alt="grey"/>
+  </a>
+  <a  href="segredo.segredo">
+    <img align="center" width="15" height="15" src="https://img.icons8.com/color/48/illuminati.png" alt="illuminati"/>
+  </a>
+  <a  href="https://www.youtube.com/watch?v=8Pj-YEQbojk">
+    <img align="center" width="15" height="15" src="https://img.icons8.com/doodle/48/capybara.png" alt="capybara"/>
+  </a>
+  <a  href="https://hackertyper.net/">
+    <img align="center" width="15" height="15" src="https://img.icons8.com/flat-round/64/self-destruct-button--v1.png" alt="self-destruct-button--v1"/>
+  </a>
 <!--
 **danieldemac/danieldemac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
