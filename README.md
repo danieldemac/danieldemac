@@ -33,7 +33,9 @@
 <img height="180px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=danieldemac&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=danieldemac&layout=compact&langs_count=16&theme=react" />
 </div>
-<br><br><br><br><br><br><br>
+<br>
+<br>
+<br><br><br><br><br>
 <div >
   <h2> 💻 Linguagens ⚡ </h2>
 </div>
