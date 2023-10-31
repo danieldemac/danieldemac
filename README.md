@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! Bem-vindos!</h1>
 
 <p align="center">
-  <img src="https://img.icons8.com/nolan/64/hand-drag.png" alt="hand-drag" width="64" height="64"/>
-  <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/programming.png" alt="programming" width="64" height="64"/>
-  <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/futurama-bender.png" alt="futurama-bender" width="64" height="64"/>
+  <a href='https://github.com/danieldemac/Particles'><img src="https://img.icons8.com/nolan/64/hand-drag.png" alt="hand-drag" width="64" height="64"/></a>
+  <a href='https://capybytes.blogspot.com/'><img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/programming.png" alt="programming" width="64" height="64"/></a>
+  <a href='https://www.youtube.com/watch?v=dPtTxMZTD5o'><img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/futurama-bender.png" alt="futurama-bender" width="64" height="64"/></a>
 </p>
 
 <p align="center">📫 How to reach me: dm.arantes.cabral@gmail.com</p>
