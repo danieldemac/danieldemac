@@ -19,7 +19,6 @@
     <li>🌐 I'm proficient in HTML, CSS, and JavaScript.</li>
     <li>🔧 I also have some familiarity with C#.</li>
     <li>📚 I have good English language skills.</li>
-    <li>🚀 I'm passionate about learning and keeping up with the latest advancements in technology.</li>
   </ul>
 </p>
 
