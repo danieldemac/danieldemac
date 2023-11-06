@@ -13,12 +13,12 @@
 
 <p align="center">
   <ul>
-    <li>🎓 I'm a Computer Science student.</li>
-    <li>🔭 I’m currently working on PHP and Laravel.</li>
-    <li>💻 I have experience in Java, Python.</li>
-    <li>🌐 I'm proficient in HTML, CSS, and JavaScript.</li>
-    <li>🔧 I also have some familiarity with C#.</li>
+    <li>⚡ I'm proficient in HTML, CSS, and JavaScript.</li>
     <li>📚 I have good English language skills.</li>
+    <li>🌐 Web Development with PHP, Laravel, and Voyager.</li>
+    <li>🔭 I’m currently working on PHP and Laravel.</li>
+    <li>💻 I have experience in Java, C# and Python.</li>
+    <li>🔭 App development, customization with Voyager, and teamwork to meet project requirements.</li>
   </ul>
 </p>
 
