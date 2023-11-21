@@ -65,6 +65,7 @@
   </a>
 </p>
 <p align="center">
+  |
   <a href="https://www.youtube.com/watch?v=-PlAg8R9TG4">
     <img src="https://img.icons8.com/officexs/16/pokeball.png" alt="pokeball" width="15" height="15"/>
   </a>
@@ -92,6 +93,7 @@
   <a  href="https://hackertyper.net/">
     <img align="center" width="15" height="15" src="https://img.icons8.com/flat-round/64/self-destruct-button--v1.png" alt="self-destruct-button--v1"/>
   </a>
+  |
   </p>
 <!-- Links de sites -->
 <h2 align="center">Projetos</h2>
