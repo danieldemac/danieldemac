@@ -78,14 +78,14 @@
     <img align="center" width="15" height="15" src="https://img.icons8.com/flat-round/64/self-destruct-button--v1.png" alt="self-destruct-button--v1"/>
   </a>
   </p>
-  
+  <h2>Links de sites:</h2>
   <p align="center">
   <ul>
-    <li>`CapyView`- https://capyview.netlify.app/</li>
-    <li>`Erro404`- https://erro404daniel.netlify.app/</li>
-    <li> `Olucaro 😈`- https://olucaro.netlify.app</li>
-    <li> `Particulas Emergentes`- https://particulasemergentes.netlify.app</li>
-    <li> `Frase do Dia` - https://afrasedodia.netlify.app/</li>
+    <li>CapyView- https://capyview.netlify.app/</li>
+    <li>Erro404- https://erro404daniel.netlify.app/</li>
+    <li>Olucaro 😈- https://olucaro.netlify.app</li>
+    <li>Particulas Emergentes- https://particulasemergentes.netlify.app</li>
+    <li>Frase do Dia - https://afrasedodia.netlify.app/</li>
   </ul>
 </p>
 <!--
