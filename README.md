@@ -77,6 +77,16 @@
   <a  href="https://hackertyper.net/">
     <img align="center" width="15" height="15" src="https://img.icons8.com/flat-round/64/self-destruct-button--v1.png" alt="self-destruct-button--v1"/>
   </a>
+
+  <p align="center">
+  ## Sites de alguns Projetos:
+  `CapyView`- https://capyview.netlify.app/
+  `Erro404`- https://erro404daniel.netlify.app/
+  `Olucaro 😈`- olucaro.netlify.app
+  `Particulas Emergentes`- particulasemergentes.netlify.app
+  `Frase do Dia` - afrasedodia.netlify.app/
+    
+  </p>
 <!--
 **danieldemac/danieldemac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
