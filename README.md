@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </p>
-<p>
+<p align="center">
   <a href="https://www.youtube.com/watch?v=-PlAg8R9TG4">
     <img src="https://img.icons8.com/officexs/16/pokeball.png" alt="pokeball" width="15" height="15"/>
   </a>
