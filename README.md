@@ -14,19 +14,17 @@
 <!-- Seção "Sobre Mim" -->
 <h2 align="center">Sobre Mim</h2>
 <p align="center">
-  Olá! Sou um estudante de Ciência da Computação apaixonado por tecnologia e programação. Aqui estão algumas informações sobre mim:
+  Olá! Sou um estudante de Ciência da Computação apaixonado por tecnologia e programação. Aqui está um pouco sobre mim:
 </p>
 
 <!-- Lista de habilidades e experiência -->
 <p align="center">
-  <ul>
-    <li>⚡ Proficiente em HTML, CSS e JavaScript.</li>
-    <li>📚 Boas habilidades na língua inglesa.</li>
-    <li>🌐 Desenvolvimento web com PHP, Laravel e Voyager.</li>
-    <li>🔭 Atualmente trabalhando com PHP e Laravel.</li>
-    <li>💻 Experiência em Java, C# e Python.</li>
-    <li>🔭 Desenvolvimento de aplicativos, customização com Voyager e trabalho em equipe para atender aos requisitos do projeto.</li>
-  </ul>
+⚡ Tenho habilidades em HTML, CSS e JavaScript.
+📚 Possuo boas habilidades na língua inglesa.
+🌐 Desenvolvimento web com PHP, Laravel e Voyager.
+💼 Atualmente, estou trabalhando com PHP e Laravel.
+💻 Tenho experiência em Java, C# e Python.
+🔭 Desenvolvimento de softwares.
 </p>
 
 <!-- Estatísticas e gráficos -->
