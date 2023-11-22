@@ -24,7 +24,7 @@
 🌐 Desenvolvimento web com PHP, Laravel e Voyager.
 💼 Atualmente, estou trabalhando com PHP e Laravel.
 💻 Tenho experiência em Java, C# e Python.
-🔭 Desenvolvimento de softwares.
+🔭 Desenvolvimento de software.
 </p>
 
 <!-- Estatísticas e gráficos -->
