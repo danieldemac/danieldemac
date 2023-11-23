@@ -33,6 +33,8 @@
   <img src="https://github-readme-stats-defcon27.vercel.app/api?username=danieldemac&show_icons=true&theme=react&include_all_commits=true&count_private=true" height="180" />
   <img src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=danieldemac&layout=compact&langs_count=16&theme=react" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieldemac&theme=react" height="180"/>
+  [![danieldemac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danieldemac&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </p>
 
 <!-- Linguagens e ferramentas -->
