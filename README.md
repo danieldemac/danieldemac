@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://github-readme-stats-defcon27.vercel.app/api?username=danieldemac&show_icons=true&theme=react&include_all_commits=true&count_private=true" height="180" />
   <img src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=danieldemac&layout=compact&langs_count=16&theme=react" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=02004RafaelOliveira&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieldemac&theme=tokyonight" height="180"/>
 </p>
 
 <!-- Linguagens e ferramentas -->
