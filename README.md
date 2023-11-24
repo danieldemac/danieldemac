@@ -19,12 +19,14 @@
 
 <!-- Lista de habilidades e experiência -->
 <p align="center">
-⚡ Tenho habilidades em HTML, CSS e JavaScript.
-📚 Possuo boas habilidades na língua inglesa.
-🌐 Desenvolvimento web com PHP, Laravel e Voyager.
-💼 Atualmente, estou trabalhando com PHP e Laravel.
-💻 Tenho experiência em Java, C# e Python.
-🔭 Desenvolvimento de software.
+  <ul>
+    <li>⚡ Tenho habilidades em HTML, CSS e JavaScript.</li>
+    <li>📚 Possuo boas habilidades na língua inglesa.</li>
+    <li>🌐 Desenvolvimento web com PHP, Laravel e Voyager.</li>
+    <li>💼 Atualmente, estou trabalhando com PHP e Laravel.</li>
+    <li>💻 Tenho experiência em Java, C# e Python.</li>
+    <li>🔭 Desenvolvimento de software.</li>
+  </ul>
 </p>
 
 <!-- Estatísticas e gráficos -->
