@@ -72,6 +72,12 @@
     <li><a href="https://afrasedodia.netlify.app/">Frase do Dia</a></li>
   </ul>
 </p>
+  ## 👀 &nbsp;Visitas
+<p align="center">
+ <br>
+<img align="left" src="https://profile-counter.glitch.me/danieldemac/count.svg" />
+<br>
+</p>
 <!--
 **danieldemac/danieldemac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
