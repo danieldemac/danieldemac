@@ -75,9 +75,9 @@
 <p align="center">
 <img align="left" src="https://profile-counter.glitch.me/danieldemac/count.svg" />
 </p>
-<p align="center">
+<!-- <p align="center">
 ![Snake animation](https://github.com/danieldemac/danieldemac/blob/output/github-contribution-grid-snake.svg)
-</p>
+</p> -->
 <!--
 **danieldemac/danieldemac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
