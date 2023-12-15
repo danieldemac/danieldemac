@@ -7,10 +7,6 @@
   <a href='https://capybytes.blogspot.com/'><img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/programming.png" alt="Blog" width="64" height="64"/></a>
   <a href='https://olucaro.netlify.app'><img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/futurama-bender.png" alt="YouTube" width="64" height="64"/></a>
 </p>
-
-<!-- Informações de contato -->
-<p align="center">📫 Como me encontrar: dm.arantes.cabral@gmail.com</p>
-
 <!-- Seção "Sobre Mim" -->
 <h2 align="center">Sobre Mim</h2>
 <p align="center">
