@@ -56,7 +56,7 @@
 <h2 align="center">Projetos</h2>
 <p align="center">
   <ul>
-    <li><a href="https://olucaro.netlify.app">Olucaro 😈</a></li>
+    <li><a href="https://olucaro.netlify.app">Chatbot -> Olucaro</a></li>
     <li><a href="https://capyview.netlify.app/">CapyView</a></li>
     <li><a href="https://particulasemergentes.netlify.app">Partículas Emergentes</a></li>
     <li><a href="https://afrasedodia.netlify.app/">Frase do Dia</a></li>
@@ -72,9 +72,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 </p>
 <br><br>
-<!-- <p align="center">
-![Snake animation](https://github.com/danieldemac/danieldemac/blob/output/github-contribution-grid-snake.svg)
-</p> -->
+
 <!--
 **danieldemac/danieldemac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
