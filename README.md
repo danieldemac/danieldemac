@@ -10,10 +10,10 @@
 <!-- Lista de habilidades e experiência -->
 <p align="center">
   <ul>
-    <li>⚡ Tenho bom conhecimento em HTML, CSS e JavaScript.</li>
-    <li>📚 Possuo boas habilidades na língua inglesa.</li>
-    <li>🌐 Desenvolvimento web com PHP, Laravel e Voyager.</li>
-    <li>💻 Tenho experiência em Java, C# e Python.</li>
+    <li>⚡ Tenho habilidade em HTML, CSS e JavaScript.</li>
+    <li>🗣️ I have good skills in the English language.</li>
+    <li>📚 Aprendendo desenvolvimento web com PHP, Laravel e Voyager.</li>
+    <li>💻 Tenho experiência com Java, C# e Python.</li>
     <li>🔭 Desenvolvimento de software.</li>
   </ul>
 </p>
