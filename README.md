@@ -13,7 +13,7 @@
 <!-- Lista de habilidades e experiência -->
 <p align="center">
   <ul>
-    <li>⚡ Tenho habilidade em HTML, CSS e JavaScript.</li>
+    <li>⚡ Tenho habilidade com HTML, CSS e JavaScript.</li>
     <li>🗣️ I have good skills in the English language.</li>
     <li>📚 Aprendendo desenvolvimento web com PHP, Laravel e Voyager.</li>
     <li>💻 Tenho experiência com Java, C# e Python.</li>
