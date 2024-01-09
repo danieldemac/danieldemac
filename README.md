@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=react" height="180"/>
+    <img src="https://streak-stats.demolab.com/?user=danieldemac&theme=react" height="180"/>
 </p>
 
 <p align="center">
