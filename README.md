@@ -1,5 +1,5 @@
 <!-- Título -->
-<h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1!+Bem-vindos+ao+meu+perfil!)](https://git.io/typing-svg)👋 </h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1!+Bem-vindos+ao+meu+perfil!" alt="Typing SVG" /></a>👋 </h1>
 <p align="center">
   <a href="https://www.instagram.com/danieldemac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="mailto:dm.arantes.cabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/daniel-de-melo-arantes-cabral-63664659//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
