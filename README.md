@@ -57,9 +57,9 @@
 <h2 align="center">Projetos</h2>
 <p align="center">
   <ul>
-    <li><a href="https://olucaro.netlify.app">Chatbot -> Olucaro</a></li>
+    <li><a href="https://olucaro.netlify.app">Chatbot: Enigma do Olucaro</a></li>
     <li><a href="https://capyview.netlify.app/">CapyView</a></li>
-    <li><a href="https://particulasemergentes.netlify.app">Partículas Emergentes</a></li>
+    <li><a href="https://particulasemergentes.netlify.app"> Simulação de Partículas Emergentes</a></li>
     <li><a href="https://afrasedodia.netlify.app/">Frase do Dia</a></li>
   </ul>
 </p>
