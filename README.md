@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieldemac&theme=react" height="180"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=danieldemac&theme=react)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
