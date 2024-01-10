@@ -28,9 +28,9 @@
   <img src="https://github-readme-stats-defcon27.vercel.app/api?username=danieldemac&show_icons=true&theme=react&include_all_commits=true&count_private=true" height="180" />
 </p>
 
-<!-- <p align="center">
+ <p align="center">
     <img src="https://streak-stats.demolab.com/?user=danieldemac&theme=react" height="180"/>
-</p>  -->
+</p> 
 
 <p align="center">
   <img src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=danieldemac&layout=compact&langs_count=16&theme=react" height="180" /> 
