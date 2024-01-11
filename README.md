@@ -8,7 +8,7 @@
 <!-- Seção "Sobre Mim" -->
 <h2 align="center">Sobre Mim</h2>
 <p align="center">
-  Olá! Sou um estudante de Ciência da Computação apaixonado por tecnologia e programação. Aqui está um pouco sobre mim:
+ Olá! Sou um estudante de Ciência da Computação, apaixonado por tecnologia. Aqui está um pouco sobre mim:
 </p>
 
 <!-- Lista de habilidades e experiência -->
