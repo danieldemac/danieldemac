@@ -63,6 +63,7 @@
     <li><a href="https://gamelifesimulation.netlify.app/"> Jogo da Vida de Conway</a></li>
     <li><a href="https://afrasedodia.netlify.app/">Frase do Dia</a></li>
   </ul>
+  
 </p>
   ## 👀 &nbsp;Visitas
 <p align="center">
