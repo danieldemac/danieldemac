@@ -7,6 +7,7 @@
 </p>
 <!-- Seção "Sobre Mim" -->
 <h2 align="center">Sobre Mim</h2>
+
 <p align="center">
  Olá! Sou Daniel Cabral, estudante de Ciências da Computação e apaixonado por tecnologia. Aqui está um pouco sobre mim:
 </p>
