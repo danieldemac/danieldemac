@@ -65,7 +65,7 @@
   </ul>
   
 </p>
-  ## 👀 &nbsp;Visitas
+  ## 👀 &nbsp;Contador
 <p align="center">
 <img align="left" src="https://profile-counter.glitch.me/danieldemac/count.svg" />
 </p>
