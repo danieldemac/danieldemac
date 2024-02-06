@@ -1,4 +1,5 @@
 <h1 align="center"><img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Ol%C3%A1!+Bem-vindos+ao+meu+perfil!;Hello!+Welcome+to+my+profile!" alt="Typing SVG" />
+
   
 </h1>   
 
