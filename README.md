@@ -62,6 +62,7 @@
 <p align="center">
   <ul>
     <li><a href="https://olucaro.netlify.app">Chatbot: Enigma do Olucaro</a></li>
+    <li><a href="https://pokedexdan.netlify.app/">Projeto de uma Pokédex -> "Dankédex"</a></li>
     <li><a href="https://capyview.netlify.app/">CapyView</a></li>
     <li><a href="https://particulasemergentes.netlify.app"> Simulação de Partículas Emergentes</a></li>
     <li><a href="https://gamelifesimulation.netlify.app/"> Jogo da Vida de Conway</a></li>
