@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://www.instagram.com/danieldemac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="mailto:dm.arantes.cabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/daniel-de-melo-arantes-cabral-63664659//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+  
 </p>
 <!-- Seção "Sobre Mim" -->
 <h2 align="center">Sobre Mim</h2>
