@@ -19,7 +19,11 @@
 <!-- Lista de habilidades e experiência -->
 <p align="center">
   <ul>
-    <li>⚡ JavaScript - HTML/CSS | Java | C# | Python | PHP - Laravel.</li>
+    <li>⚡ JavaScript - HTML/CSS 
+    <li>Java</li>
+    <li>C#</li>
+    <li>Python</li>
+    <li>PHP - Laravel.</li>
     <li>🗣️ I have good skills in the English language.</li>
   </ul>
 </p>
