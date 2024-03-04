@@ -20,10 +20,10 @@
 <p align="center">
   <ul>
     <li>⚡ JavaScript - HTML/CSS 
-    <li>Java</li>
-    <li>C#</li>
-    <li>Python</li>
-    <li>PHP - Laravel.</li>
+    <li>⚡ Java</li>
+    <li>⚡ C#</li>
+    <li>⚡ Python</li>
+    <li>⚡ PHP - Laravel.</li>
     <li>🗣️ I have good skills in the English language.</li>
   </ul>
 </p>
