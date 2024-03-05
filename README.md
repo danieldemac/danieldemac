@@ -19,7 +19,9 @@
 <!-- Lista de habilidades e experiência -->
 <p align="center">
   <ul>
-    <li>⚡ JavaScript - HTML/CSS 
+    <li>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Dan-Js" height="30" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Dan-HTML" height="30" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Dan-CSS" height="30" width="40"> JavaScript - HTML/CSS 
     <li>⚡ Java</li>
     <li>⚡ C#</li>
     <li>⚡ Python</li>
