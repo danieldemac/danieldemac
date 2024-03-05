@@ -13,10 +13,10 @@
 
 <p align="center">
   
- Olá! Sou Daniel Cabral, estudante de Ciências da Computação e apaixonado por tecnologia. Aqui está um pouco sobre mim:
+ Olá! Sou Daniel Cabral, estudante de Ciências da Computação e apaixonado por tecnologia. Aqui temos uma lista de habilidades e experiências:
 </p>
 
-<!-- Lista de habilidades e experiência -->
+<!-- Lista de habilidades e experiências -->
 <p align="center">
   <ul>
     <li>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Dan-Js" height="30" width="40">
