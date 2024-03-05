@@ -22,10 +22,11 @@
     <li>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Dan-Js" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Dan-HTML" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Dan-CSS" height="30" width="40"> JavaScript - HTML/CSS 
-    <li>⚡ Java</li>
-    <li>⚡ C#</li>
-    <li>⚡ Python</li>
-    <li>⚡ PHP - Laravel.</li>
+    <li> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Dan-Java" height="30" width="40"> Java</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Dan-C#" height="30" width="40"> C#</li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Dan-Py" height="30" width="40"> Python</li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Dan-CSS" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Dan-Laravel" height="30" width="40"> PHP - Laravel.</li>
     <li>🗣️ I have good skills in the English language.</li>
   </ul>
 </p>
