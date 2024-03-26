@@ -1,4 +1,4 @@
-<h1 align="center"><img width="15px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00DF05&background=000000&random=false&width=435&lines=-%3EOi!+Bem+vindos+ao+meu+perfil!;-%3EHello!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<h1 align="center"><img width="15px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00DF05&background=0D1117&random=false&width=435&lines=-%3EOi!+Bem+vindos+ao+meu+perfil!;-%3EHello!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
 
   
 </h1>   
