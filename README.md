@@ -67,7 +67,7 @@ Hey! Este é o repositório de Daniel Cabral, um desenvolvedor de software com e
 <br><br>
 
 <!-- Linguagens e ferramentas -->
-<h2 align="center">Linguagens e Ferramentas</h2>
+<h2 align="center">Linguagens e Ferramentas presentes no repositório</h2>
 <p align="center">
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Dan-Js" height="30" width="40">
