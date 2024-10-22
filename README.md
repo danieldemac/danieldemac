@@ -14,7 +14,7 @@
   
 ## Bem-vindo ao repositório de Daniel Cabral!
 
-Desenvolvedor de software com 1 ano de experiência, buscando constantemente novas maneiras de aprender e aprimorar suas habilidades.
+Desenvolvedor de software com 1 ano de experiência, buscando constantemente novas maneiras de aprender e aprimorar minhas habilidades.
 
 ### Principais Habilidades:
 <p align="center">
