@@ -12,20 +12,18 @@
 
 <p align="center">
   
-Hey! Este é o repositório de Daniel Cabral, um desenvolvedor de software com experiência em:
-</p>
+## Bem-vindo ao repositório de Daniel Cabral!
 
-<!-- Lista de habilidades e experiências -->
+Desenvolvedor de software com 1 ano de experiência, buscando constantemente novas maneiras de aprender e aprimorar suas habilidades.
+
+### Principais Habilidades:
 <p align="center">
-  <ul>
-    <li>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Dan-Js" height="30" width="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Dan-HTML" height="30" width="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Dan-CSS" height="30" width="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Dan-Java" height="30" width="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Dan-C#" height="30" width="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Dan-Py" height="30" width="40"></li>
-    <li>🗣️ I have good skills in the English language.</li>
-  </ul>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Daniel-Python" height="30" width="40"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Daniel-JavaScript" height="30" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Daniel-HTML" height="30" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Daniel-CSS" height="30" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Daniel-Java" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Daniel-C#" height="30" width="40">
 </p>
 
 <!-- Estatísticas e gráficos -->
