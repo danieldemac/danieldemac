@@ -14,7 +14,7 @@
   
 ## Bem-vindo ao repositório de Daniel Cabral!
 
-Desenvolvedor de software com 1 ano de experiência, buscando constantemente novas maneiras de aprender e aprimorar minhas habilidades.
+Desenvolvedor de software com 1 ano de experiência, sempre buscando novas formas de aprender e crescer. Orientado para resultados e focado no alcance de metas. Interessado em enfrentar novos desafios e demonstrar seu trabalho por meio de dedicação
 
 ### Principais Habilidades:
 <p align="center">
@@ -24,6 +24,8 @@ Desenvolvedor de software com 1 ano de experiência, buscando constantemente nov
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Daniel-CSS" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Daniel-Java" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Daniel-C#" height="30" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Daniel-PHP" height="30" width="40">
+
 </p>
 
 <!-- Estatísticas e gráficos -->
